@@ -1,0 +1,40 @@
+{
+    "user" : {
+        "fullName": "Nevanje Kamuto",
+        "photo" : "neva.png",
+        "description": "A civil engineering student at UJ. Passionate about science. "
+    },
+    "city" : {
+        "name" : "Berlin",
+        "photo" : "berlin.png",
+        "description" : "Berlin has one of the most creative street art and most impressive mesums in the whole world. There is also impressive architecture and friendly locals"
+    },
+    "foreignLanguage" : {
+        "language" : "Duetsch",
+        "phrases" : [{
+            "englishPhrase" : "Good day",
+            "foreignLanguage" : "Guter tag"
+        },
+        {
+            "englishPhrase" : "God is good",
+            "foreignLanguage" : "Gott ist gutt"
+        }]
+    },
+    "favouriteSubjects" : [
+        {
+            "name" : "Biology",
+            "photo" : "biology.png",
+            "description" : "The study of life"
+        },
+        {
+            "name" : "Chemistry",
+            "photo" : "chemistry.png",
+            "description": "The study of matter"
+        },
+        {
+            "name" : "Literature",
+            "photo" : "literature.png",
+            "description" : "Study and analysis of bodies of written work"
+        }
+    ]
+}
